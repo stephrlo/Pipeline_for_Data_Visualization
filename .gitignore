@@ -2,3 +2,5 @@
 *.ipynb
 # Ignore .log files 
 *.log
+#ignore 
+input/
