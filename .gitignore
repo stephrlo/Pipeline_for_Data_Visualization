@@ -1,0 +1,7 @@
+# Ignore .ipynb files 
+*.ipynb
+# Ignore .log files 
+*.log
+#ignore DS_Store files
+*.DS_Store
+**/.DS_Store
