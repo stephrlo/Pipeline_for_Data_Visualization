@@ -1,4 +1,4 @@
-# Pipeline_for_Data_Visualizations
+2# Pipeline_for_Data_Visualizations
 
 **Summary** 
 Python scripts to help automate your Tableau data for easier transformation for your visualizations. The tutorial for this code is to be run alongside Medium Article: "How To Prepare Your Data For Visualizations" by Stephanie Lo.  
@@ -20,6 +20,6 @@ The contents of the repo are split into two: the Python Scripts that run each st
 4. **hyper** - Output of Hyper files, converting most recent files only. 
 
 **Software**
-- [Python & VS Code]([https://code.visualstudio.com/download)
+[Python & VS Code](https://code.visualstudio.com/download)
 
 *Note: The markdown file and visuals were functional as of 6/20/2023, and included data until April 2023. Any subsequent edits or additions to the original data file may mean that you have to adjust the code in order to ensure the pipeline works.*
