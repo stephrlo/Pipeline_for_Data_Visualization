@@ -1,6 +1,6 @@
 2# Pipeline_for_Data_Visualizations
 
-**Summary** \
+**Summary** <br />
 
 Python scripts to help automate your Tableau data for easier transformation for your visualizations. The tutorial for this code is to be run alongside Medium Article: "How To Prepare Your Data For Visualizations" by Stephanie Lo.  
 
