@@ -2,7 +2,7 @@
 
 **Summary** <br />
 
-Python scripts to help automate your Tableau data for easier transformation for your visualizations. The tutorial for this code was meant to be run alongside Medium Article: "How To Prepare Your Data For Visualizations" by Stephanie Lo, so feel free to read and code along!  
+Python scripts to help automate your Tableau data for easier transformation for your visualizations. The tutorial for this code is meant to be run alongside the Medium Article: ["How To Prepare Your Data For Visualizations"](https://medium.com/towards-data-science/how-to-prepare-your-data-for-visualizations-94e33473f70b) by Stephanie Lo, so feel free to read and code along!  
 
 **Contents** <br />
 
